@@ -1,4 +1,4 @@
-Weather Text Bot
+Weather Updater
 
 I wanted to create a simple program that I would use. 
 
